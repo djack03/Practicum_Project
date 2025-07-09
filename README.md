@@ -1,5 +1,6 @@
 # Practicum_Project
-Cybersecurity Practicum Project created by Dillon Jack, Gerald Gowen, and Elijah Gamble 4/28/2025
+Cybersecurity Practicum Project created by Gerald Gowen, Dillon Jack, and Elijah Gamble 
+4/28/2025
 
 Network Scanner CLI Tool
 
